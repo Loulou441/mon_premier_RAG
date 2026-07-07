@@ -20,3 +20,6 @@ if GROQ_API_KEY is None:
         "GROQ_API_KEY introuvable. Vérifier son existance dans .env"
         "et qu'il contient une ligne : GROQ_API_KEY=..."
     )
+
+# Nom de collection
+COLLECTION_NAME = "tp_rag_collection"
