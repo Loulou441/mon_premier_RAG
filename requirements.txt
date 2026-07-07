@@ -1,0 +1,5 @@
+groq
+sentence-transformers==3.0.1
+chromadb
+python-dotenv
+numpy<2.0.0
