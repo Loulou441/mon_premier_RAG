@@ -24,7 +24,7 @@ class RAGSystem(Agent):
         
         # 1. Sécurité d'abord : Appel au Modérateur
         moderation_result = self.moderator.moderate_transcript(question)
-        if moderation_result["prompt_injection"]:
+        if moderation_result['prompt_injection']:
             return "Désolé, votre requête a été rejetée par notre agent de sécurité (Tentative d'injection détectée)." 
 
         # 2. Récupération des données (Retrieval)
@@ -58,7 +58,7 @@ if __name__ == "__main__":
     answer = rag_system.answer_question(question)
     print(f"\nRéponse générée : {answer}")
 
-    question = "Quelle est le numéro de téléphone de Trump ?"
+    question = "Quelle est le nom de la plus petite commune de France ?"
     answer = rag_system.answer_question(question)
     print(f"\nRéponse générée : {answer}")
 
