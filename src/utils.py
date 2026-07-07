@@ -18,3 +18,7 @@ def csv_to_json(csv_file_path, json_file_path):
         # indent=4 permet d'avoir un fichier JSON bien lisible et espacé
         # ensure_ascii=False permet de conserver les accents français
         json.dump(data, json_file, indent=4, ensure_ascii=False)
+
+if __name__ == "__main__":
+    # Exemple d'utilisation
+    csv_to_json("data/05_corpus_rag.csv", "data/05_corpus_rag.json")
