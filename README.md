@@ -2,7 +2,7 @@
 
 Ce dépôt contient l'implémentation complète et reproductible du mini-TP guidé de construction d'un pipeline **RAG (Retrieval-Augmented Generation)**. Conçu sans frameworks d'orchestration lourds (sans LangChain ni LlamaIndex), ce projet met en évidence les mécanismes fondamentaux de l'ingestion, de la recherche sémantique (Retrieval), de l'atténuation des hallucinations et de la sécurité des prompts.
 
-Le système est testé sur un **corpus de 200 chunks**, garantissant que les réponses correctes proviennent exclusivement du processus de récupération de documents et non de la mémoire pré-entraînée du LLM.
+Le système est testé sur un **corpus absurde de 200 chunks**, garantissant que les réponses correctes proviennent exclusivement du processus de récupération de documents et non de la mémoire pré-entraînée du LLM.
 
 ## ⚙️ Architecture du Projet
 
@@ -12,6 +12,7 @@ Le projet adopte une approche orientée objet avec une séparation stricte entre
 mon_premier_RAG/
 ├── src/
 │   ├── config.py                       # Configuration centralisée (modèles, .env, chemins)
+│   ├── app.py                          # main app file
 │   ├── agent.py                        # Classe de base : client Groq unifié
 │   ├── moderator_agent.py              # Agent de sécurité anti prompt-injection
 │   ├── rag_orchestrator.py             # Chef d'orchestre du pipeline complet
@@ -29,6 +30,7 @@ mon_premier_RAG/
 ```
 
 * **`config.py`** : Centralisation de la configuration (modèles, variables d'environnement, paramètres des dossiers).
+* **`app.py`** : Interface utilisateur pour utiliser le RAG.
 * **`agent.py`** : Base commune instanciant le client officiel `Groq` de manière unifiée.
 * **`database.py`** : Gestion du cycle de vie de la base vectorielle persistante **ChromaDB** et de l'encodage local avec normalisation spatiale via `sentence-transformers`.
 * **`moderator_agent.py`** : Agent de sécurité interceptant les attaques par injection de prompt avant la phase de génération, forçant un format de sortie JSON strict.
@@ -162,6 +164,7 @@ La base ChromaDB (`src/chroma_db/`) est créée automatiquement au premier lance
 ## ▶️ Utilisation
 
 ### Interroger le pipeline RAG complet
+#### Via le fichier rag_ochestrator.py
 ```bash
 cd src
 python rag_orchestrator.py
@@ -170,6 +173,15 @@ Ce script initialise (ou recharge) la base vectorielle, instancie `RAGSystem`, p
 * une question dans le périmètre du corpus,
 * une question hors périmètre,
 * une tentative de contournement (données sensibles) bloquée par le modérateur.
+
+#### Via streamlit en local
+```bash
+python streamlit run src/app.py
+```
+#### Via streamlit deployé
+
+L'application est disponible à l'adresse suivante:
+https://first-rag.streamlit.app/
 
 ### Utilisation programmatique
 ```python
