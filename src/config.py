@@ -9,7 +9,7 @@ PROMPTS_DIR = os.path.join(os.path.dirname(__file__), "prompts")
 # Modèles
 EMBEDDING_MODEL_NAME = "distiluse-base-multilingual-cased-v2" # Donné dans le sujet
 LLM_GENERATION_MODEL = "llama-3.3-70b-versatile"              # Donné dans le sujet
-LLM_MODERATION_MODEL = "llama-guard-3-8b"                     # Donné dans le sujet
+LLM_MODERATION_MODEL = "llama-3.3-70b-versatile"
 
 #Clé GROQ
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
