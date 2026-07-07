@@ -8,20 +8,30 @@ class VectorDB:
         """Aiguillage automatique : charge ou crée la base persistante."""
         self.client = chromadb.PersistentClient(path=DB_PATH)
         collection_name = COLLECTION_NAME
-        
-        # Création de la base
-        if not chunks:
-            raise ValueError("La base de données n'existe pas et aucun chunk n'a été fourni pour la créer.")
-        
-        print(f"Initialisation et création de la base avec le modèle : {EMBEDDING_MODEL_NAME}")
-        self.model = SentenceTransformer(EMBEDDING_MODEL_NAME)
-        
-        # Sauvegarde du nom du modèle dans la métadonnée de collection 
-        # Astuce anti-bug : empêche d'interroger une DB existante avec un modèle d'embedding différent 
-        self.collection = self.client.create_collection(
-            name=collection_name,
-            metadata={"embedding_model": EMBEDDING_MODEL_NAME}
-        )
+        existing_collections = [col.name for col in self.client.list_collections()]
+
+        if collection_name in existing_collections:
+            # Rechargement de la base
+            self.collection = self.client.get_collection(name=collection_name)
+            # Récupération du modèle dynamique depuis la métadonnée
+            metadata = self.collection.metadata
+            model_name = metadata.get("embedding_model", EMBEDDING_MODEL_NAME)
+            print(f"Base détectée. Chargement du modèle depuis métadonnées: {model_name}")
+            self.model = SentenceTransformer(model_name)
+        else:
+            # Création de la base
+            if not chunks:
+                raise ValueError("La base de données n'existe pas et aucun chunk n'a été fourni pour la créer.")
+            
+            print(f"Initialisation et création de la base avec le modèle : {EMBEDDING_MODEL_NAME}")
+            self.model = SentenceTransformer(EMBEDDING_MODEL_NAME)
+            
+            # Sauvegarde du nom du modèle dans la métadonnée de collection 
+            # Astuce anti-bug : empêche d'interroger une DB existante avec un modèle d'embedding différent 
+            self.collection = self.client.create_collection(
+                name=collection_name,
+                metadata={"embedding_model": EMBEDDING_MODEL_NAME}
+            )
         self.initiation_database(chunks)
 
     def initiation_database(self, chunks):
