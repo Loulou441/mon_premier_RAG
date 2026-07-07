@@ -1,0 +1,1202 @@
+[
+    {
+        "id": "chunk_001",
+        "text": "Le chat bleu de Bob s'appelle Henri.",
+        "source": "carnet_de_bob",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_002",
+        "text": "Henri, le chat de Bob, refuse de dormir ailleurs que sur le réfrigérateur.",
+        "source": "carnet_de_bob",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_003",
+        "text": "Henri le chat bleu miaule uniquement les mardis, jamais les autres jours.",
+        "source": "carnet_de_bob",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_004",
+        "text": "Le chien vert d'Alice s'appelle Gaston et il a peur des parapluies fermés.",
+        "source": "registre_animalier",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_005",
+        "text": "Gaston, le chien vert d'Alice, aboie en rimes quand il pleut.",
+        "source": "registre_animalier",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_006",
+        "text": "La tortue orange de Carla se nomme Prosper et collectionne les bouchons de liège.",
+        "source": "registre_animalier",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_007",
+        "text": "Prosper la tortue orange traverse le jardin de Carla en exactement quarante minutes.",
+        "source": "registre_animalier",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_008",
+        "text": "Le perroquet gris de Diego s'appelle Newton et ne répète que des mots qui commencent par la lettre K.",
+        "source": "carnet_de_diego",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_009",
+        "text": "Newton le perroquet de Diego dort la tête en bas dans un vieux chapeau melon.",
+        "source": "carnet_de_diego",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_010",
+        "text": "Le lapin rose de Fatou s'appelle Bartholomé et il déteste la couleur turquoise.",
+        "source": "registre_animalier",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_011",
+        "text": "Bartholomé le lapin rose de Fatou creuse toujours vers le nord-est.",
+        "source": "registre_animalier",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_012",
+        "text": "Le poisson rouge de Karim s'appelle Ferdinand et nage exclusivement dans le sens des aiguilles d'une montre.",
+        "source": "carnet_de_karim",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_013",
+        "text": "Ferdinand le poisson de Karim s'ennuie quand il n'y a pas de musique classique dans la pièce.",
+        "source": "carnet_de_karim",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_014",
+        "text": "Le hamster jaune de Sophie s'appelle Auguste et gère un stock secret de graines de citrouille.",
+        "source": "registre_animalier",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_015",
+        "text": "Auguste le hamster jaune de Sophie court dans sa roue uniquement à reculons.",
+        "source": "registre_animalier",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_016",
+        "text": "Le chat noir de Bob, différent d'Henri, s'appelle Casimir et vit dans la cave.",
+        "source": "carnet_de_bob",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_017",
+        "text": "Casimir, le second chat de Bob, ne mange que des croquettes en forme d'étoile.",
+        "source": "carnet_de_bob",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_018",
+        "text": "La chèvre mauve de Léon s'appelle Clémentine et connaît le chemin de la boulangerie par cœur.",
+        "source": "carnet_de_leon",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_019",
+        "text": "Clémentine la chèvre mauve de Léon refuse de marcher sur les pavés fissurés.",
+        "source": "carnet_de_leon",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_020",
+        "text": "Le canard argenté de Nadia s'appelle Roméo et il siffle l'air d'une berceuse inventée par Nadia.",
+        "source": "registre_animalier",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_021",
+        "text": "Roméo le canard argenté de Nadia dort dans une pantoufle en velours vert.",
+        "source": "registre_animalier",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_022",
+        "text": "Contrairement à une idée répandue au village, le chat d'Henri n'a jamais été vert : il est et a toujours été bleu.",
+        "source": "carnet_de_bob",
+        "categorie": "animaux"
+    },
+    {
+        "id": "chunk_023",
+        "text": "Villebrume-les-Cuillères est un village où toutes les maisons ont un toit en zinc plié en accordéon.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_024",
+        "text": "Basse-Molette est une bourgade construite entièrement autour d'un puits qui ne contient que du sable tiède.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_025",
+        "text": "Mont-Farfelu est une colline dont le sommet change de nom chaque premier lundi du mois.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_026",
+        "text": "Les Cinq-Escaliers est un quartier où il est interdit de monter deux marches à la fois.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_027",
+        "text": "Pont-aux-Cailloux est une ville dont l'unique pont est peint en damier jaune et gris.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_028",
+        "text": "Grand-Chuchot est un hameau où les habitants ne se saluent qu'en clignant de l'œil gauche.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_029",
+        "text": "La Ravine-Tiède est une vallée où il pleut toujours exactement à seize heures dix-sept.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_030",
+        "text": "Fond-de-Théière est un bourg dont la place centrale est pavée de vieilles soucoupes.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_031",
+        "text": "Haute-Semelle est un village perché où chaque maison possède un escabeau accroché à sa cheminée.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_032",
+        "text": "Clos-des-Girouettes est un hameau où toutes les girouettes pointent obstinément vers l'ouest, même sans vent.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_033",
+        "text": "La capitale administrative de Villebrume-les-Cuillères est en réalité un banc public numéroté 12.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_034",
+        "text": "À Basse-Molette, il est de coutume d'offrir un caillou poli pour un anniversaire.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_035",
+        "text": "Le marché de Mont-Farfelu ne vend que des objets bleus le jeudi.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_036",
+        "text": "Les habitants des Cinq-Escaliers appellent leur mairie « la grande boîte à chaussures ».",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_037",
+        "text": "La rivière qui traverse Pont-aux-Cailloux coule dans les deux sens selon l'humeur du garde-champêtre.",
+        "source": "geographie_imaginaire",
+        "categorie": "lieux"
+    },
+    {
+        "id": "chunk_038",
+        "text": "Le plioir à brume est un ustensile en cuivre qui sert, dit-on, à ranger le brouillard dans un bocal.",
+        "source": "catalogue_objets",
+        "categorie": "objets"
+    },
+    {
+        "id": "chunk_039",
+        "text": "Une clef-sifflet ne déverrouille rien : elle se contente d'émettre trois notes quand on la tourne à gauche.",
+        "source": "catalogue_objets",
+        "categorie": "objets"
+    },
+    {
+        "id": "chunk_040",
+        "text": "Le carnet-à-mardis est un agenda qui ne comporte que des pages datées d'un mardi.",
+        "source": "catalogue_objets",
+        "categorie": "objets"
+    },
+    {
+        "id": "chunk_041",
+        "text": "La lampe-à-silence diffuse une lumière tiède mais éteint tous les bruits dans un rayon de deux mètres.",
+        "source": "catalogue_objets",
+        "categorie": "objets"
+    },
+    {
+        "id": "chunk_042",
+        "text": "Un tabouret-boussole indique le nord uniquement lorsqu'on s'assoit dessus en chaussettes.",
+        "source": "catalogue_objets",
+        "categorie": "objets"
+    },
+    {
+        "id": "chunk_043",
+        "text": "La cuillère-échelle sert à mesurer la profondeur d'un bol de soupe en dixièmes de nuage.",
+        "source": "catalogue_objets",
+        "categorie": "objets"
+    },
+    {
+        "id": "chunk_044",
+        "text": "Le parapluie-radio capte une seule station qui ne diffuse que des bulletins météo de l'année dernière.",
+        "source": "catalogue_objets",
+        "categorie": "objets"
+    },
+    {
+        "id": "chunk_045",
+        "text": "Une horloge-à-rebours de Villebrume avance de treize minutes chaque fois qu'on éternue devant elle.",
+        "source": "catalogue_objets",
+        "categorie": "objets"
+    },
+    {
+        "id": "chunk_046",
+        "text": "Le peigne-thermomètre change de couleur selon la température du crâne de son propriétaire.",
+        "source": "catalogue_objets",
+        "categorie": "objets"
+    },
+    {
+        "id": "chunk_047",
+        "text": "Un livre-oreiller ne se lit pas : on dort dessus pour absorber son contenu par capillarité.",
+        "source": "catalogue_objets",
+        "categorie": "objets"
+    },
+    {
+        "id": "chunk_048",
+        "text": "La tarte au brouillard de Basse-Molette se prépare sans four : on la laisse simplement réfléchir toute une nuit.",
+        "source": "recueil_culinaire",
+        "categorie": "cuisine"
+    },
+    {
+        "id": "chunk_049",
+        "text": "Le potage tiède-mauve est traditionnellement servi dans des chaussures en porcelaine.",
+        "source": "recueil_culinaire",
+        "categorie": "cuisine"
+    },
+    {
+        "id": "chunk_050",
+        "text": "Les biscuits-carrés-ronds de Grand-Chuchot doivent être mangés en silence absolu, sinon ils rétrécissent.",
+        "source": "recueil_culinaire",
+        "categorie": "cuisine"
+    },
+    {
+        "id": "chunk_051",
+        "text": "La confiture d'ombre se tartine uniquement sur du pain grillé à l'envers.",
+        "source": "recueil_culinaire",
+        "categorie": "cuisine"
+    },
+    {
+        "id": "chunk_052",
+        "text": "Le fromage de Haute-Semelle vieillit à l'endroit si on le suspend par une ficelle bleue.",
+        "source": "recueil_culinaire",
+        "categorie": "cuisine"
+    },
+    {
+        "id": "chunk_053",
+        "text": "La soupe aux sept cailloux ne contient aucun caillou : c'est une règle stricte des cuisiniers de Fond-de-Théière.",
+        "source": "recueil_culinaire",
+        "categorie": "cuisine"
+    },
+    {
+        "id": "chunk_054",
+        "text": "Le sirop de girouette a un goût différent selon la direction du vent au moment de l'embouteillage.",
+        "source": "recueil_culinaire",
+        "categorie": "cuisine"
+    },
+    {
+        "id": "chunk_055",
+        "text": "On mange les gaufres-de-mardi exclusivement avec une fourchette à trois dents recourbées.",
+        "source": "recueil_culinaire",
+        "categorie": "cuisine"
+    },
+    {
+        "id": "chunk_056",
+        "text": "Le thé de Clos-des-Girouettes se boit froid en été et encore plus froid en hiver.",
+        "source": "recueil_culinaire",
+        "categorie": "cuisine"
+    },
+    {
+        "id": "chunk_057",
+        "text": "La glace au brouillard fond vers le haut, ce qui oblige à la déguster tête renversée.",
+        "source": "recueil_culinaire",
+        "categorie": "cuisine"
+    },
+    {
+        "id": "chunk_058",
+        "text": "Le plieur de brume est un métier officiel à Villebrume-les-Cuillères, transmis de tante à neveu.",
+        "source": "annuaire_metiers",
+        "categorie": "metiers"
+    },
+    {
+        "id": "chunk_059",
+        "text": "Un compteur de girouettes doit vérifier chaque matin que toutes les girouettes du Clos pointent bien à l'ouest.",
+        "source": "annuaire_metiers",
+        "categorie": "metiers"
+    },
+    {
+        "id": "chunk_060",
+        "text": "Le gardien des mardis est chargé de rappeler aux habitants quel jour on est, mais seulement les mardis.",
+        "source": "annuaire_metiers",
+        "categorie": "metiers"
+    },
+    {
+        "id": "chunk_061",
+        "text": "Un accordeur de silence règle la lampe-à-silence de la mairie deux fois par saison.",
+        "source": "annuaire_metiers",
+        "categorie": "metiers"
+    },
+    {
+        "id": "chunk_062",
+        "text": "Le porteur de cailloux polis livre les cadeaux d'anniversaire à Basse-Molette dans une brouette peinte en rose.",
+        "source": "annuaire_metiers",
+        "categorie": "metiers"
+    },
+    {
+        "id": "chunk_063",
+        "text": "Le crieur à l'envers annonce les nouvelles de Grand-Chuchot en commençant par la dernière phrase.",
+        "source": "annuaire_metiers",
+        "categorie": "metiers"
+    },
+    {
+        "id": "chunk_064",
+        "text": "Un régleur de girouettes gagne une pièce de bois sculptée pour chaque girouette remise à l'ouest.",
+        "source": "annuaire_metiers",
+        "categorie": "metiers"
+    },
+    {
+        "id": "chunk_065",
+        "text": "Le veilleur de soucoupes époussette chaque soir les pavés de la place de Fond-de-Théière.",
+        "source": "annuaire_metiers",
+        "categorie": "metiers"
+    },
+    {
+        "id": "chunk_066",
+        "text": "Le maître-plieur enseigne l'art de ranger le brouillard pendant sept années et un jour.",
+        "source": "annuaire_metiers",
+        "categorie": "metiers"
+    },
+    {
+        "id": "chunk_067",
+        "text": "Un lecteur d'oreillers récite à voix basse le contenu des livres-oreillers pour les insomniaques.",
+        "source": "annuaire_metiers",
+        "categorie": "metiers"
+    },
+    {
+        "id": "chunk_068",
+        "text": "Bob est né un 30 février, une date qu'il tient à célébrer chaque année, faute de mieux, le 1er mars.",
+        "source": "carnet_de_bob",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_069",
+        "text": "Bob collectionne les boutons dépareillés et en possède exactement 1 847.",
+        "source": "carnet_de_bob",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_070",
+        "text": "Alice, la voisine de Bob, dirige la fanfare municipale qui ne joue qu'une seule note, très longtemps.",
+        "source": "biographies_village",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_071",
+        "text": "Carla, propriétaire de la tortue Prosper, tricote des chaussettes pour les bancs publics.",
+        "source": "biographies_village",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_072",
+        "text": "Diego répare les parapluies-radios cassés dans un atelier au sous-sol de la boulangerie.",
+        "source": "biographies_village",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_073",
+        "text": "Fatou est championne régionale de lancer de caillou poli, discipline reconnue à Basse-Molette.",
+        "source": "biographies_village",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_074",
+        "text": "Karim tient la seule librairie qui ne vend que des livres-oreillers, classés par épaisseur.",
+        "source": "biographies_village",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_075",
+        "text": "Sophie enseigne le pliage de brume aux enfants tous les mercredis pluvieux.",
+        "source": "biographies_village",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_076",
+        "text": "Léon, éleveur de chèvres mauves, refuse d'utiliser des cloches et préfère des grelots en bois.",
+        "source": "biographies_village",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_077",
+        "text": "Nadia compose des berceuses pour canards argentés qu'elle n'écrit jamais sur papier.",
+        "source": "biographies_village",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_078",
+        "text": "Le maire de Villebrume s'appelle Gontran Petit-Nuage et gouverne depuis un banc numéroté 12.",
+        "source": "biographies_village",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_079",
+        "text": "Gontran Petit-Nuage signe tous ses décrets à l'encre turquoise, sa couleur porte-bonheur.",
+        "source": "biographies_village",
+        "categorie": "biographies"
+    },
+    {
+        "id": "chunk_080",
+        "text": "À Villebrume-les-Cuillères, il est interdit de siffler après vingt heures, sauf si l'on est un canard.",
+        "source": "reglement_municipal",
+        "categorie": "regles"
+    },
+    {
+        "id": "chunk_081",
+        "text": "Le règlement de Grand-Chuchot impose de saluer les statues d'un hochement de tête discret.",
+        "source": "reglement_municipal",
+        "categorie": "regles"
+    },
+    {
+        "id": "chunk_082",
+        "text": "À Haute-Semelle, chaque habitant doit repeindre son escabeau de cheminée en jaune une fois par an.",
+        "source": "reglement_municipal",
+        "categorie": "regles"
+    },
+    {
+        "id": "chunk_083",
+        "text": "Il est formellement défendu, aux Cinq-Escaliers, de descendre un escalier en chantant.",
+        "source": "reglement_municipal",
+        "categorie": "regles"
+    },
+    {
+        "id": "chunk_084",
+        "text": "À Basse-Molette, offrir un caillou non poli est passible d'un avertissement écrit à la craie.",
+        "source": "reglement_municipal",
+        "categorie": "regles"
+    },
+    {
+        "id": "chunk_085",
+        "text": "Le règlement de Fond-de-Théière interdit de marcher sur les soucoupes ébréchées de la place.",
+        "source": "reglement_municipal",
+        "categorie": "regles"
+    },
+    {
+        "id": "chunk_086",
+        "text": "À Clos-des-Girouettes, tourner une girouette vers l'est de ses propres mains est considéré comme une farce grave.",
+        "source": "reglement_municipal",
+        "categorie": "regles"
+    },
+    {
+        "id": "chunk_087",
+        "text": "Mont-Farfelu impose d'apprendre par cœur le nouveau nom du sommet le premier lundi de chaque mois.",
+        "source": "reglement_municipal",
+        "categorie": "regles"
+    },
+    {
+        "id": "chunk_088",
+        "text": "À Pont-aux-Cailloux, il faut demander la permission au garde-champêtre avant de traverser le pont deux fois de suite.",
+        "source": "reglement_municipal",
+        "categorie": "regles"
+    },
+    {
+        "id": "chunk_089",
+        "text": "Le règlement de La Ravine-Tiède exige que tout parapluie soit ouvert dès seize heures seize, en prévision.",
+        "source": "reglement_municipal",
+        "categorie": "regles"
+    },
+    {
+        "id": "chunk_090",
+        "text": "La Fête des Mardis Multiples se célèbre à Villebrume trois mardis d'affilée, une fois tous les onze ans.",
+        "source": "calendrier_festif",
+        "categorie": "traditions"
+    },
+    {
+        "id": "chunk_091",
+        "text": "Le Grand Comptage des Girouettes rassemble tout le Clos autour d'un unique clocher chaque solstice d'été.",
+        "source": "calendrier_festif",
+        "categorie": "traditions"
+    },
+    {
+        "id": "chunk_092",
+        "text": "Pendant la Nuit du Brouillard Rangé, les plieurs de brume exposent leurs plus beaux bocaux sur la place.",
+        "source": "calendrier_festif",
+        "categorie": "traditions"
+    },
+    {
+        "id": "chunk_093",
+        "text": "À la Fête des Cailloux Polis, on lance des galets peints dans un panier en osier pour attirer la chance.",
+        "source": "calendrier_festif",
+        "categorie": "traditions"
+    },
+    {
+        "id": "chunk_094",
+        "text": "Le Carnaval à l'Envers de Grand-Chuchot commence par le feu d'artifice et finit par l'ouverture des portes.",
+        "source": "calendrier_festif",
+        "categorie": "traditions"
+    },
+    {
+        "id": "chunk_095",
+        "text": "La Journée du Silence de Haute-Semelle interdit toute parole, sauf pour commander du fromage.",
+        "source": "calendrier_festif",
+        "categorie": "traditions"
+    },
+    {
+        "id": "chunk_096",
+        "text": "Lors du Festin Tiède-Mauve, chaque convive apporte sa propre chaussure en porcelaine.",
+        "source": "calendrier_festif",
+        "categorie": "traditions"
+    },
+    {
+        "id": "chunk_097",
+        "text": "La Parade des Escabeaux voit défiler les habitants de Haute-Semelle, escabeau sur l'épaule.",
+        "source": "calendrier_festif",
+        "categorie": "traditions"
+    },
+    {
+        "id": "chunk_098",
+        "text": "Le Bal des Girouettes Immobiles dure exactement le temps qu'une bougie turquoise mette à fondre.",
+        "source": "calendrier_festif",
+        "categorie": "traditions"
+    },
+    {
+        "id": "chunk_099",
+        "text": "La Fête du Trente Février est la seule fête de Villebrume dont personne n'est certain de la date.",
+        "source": "calendrier_festif",
+        "categorie": "traditions"
+    },
+    {
+        "id": "chunk_100",
+        "text": "La fleur-parapluie de Nadia ne s'ouvre que sous la pluie et se referme dès qu'on la regarde.",
+        "source": "herbier_absurde",
+        "categorie": "plantes"
+    },
+    {
+        "id": "chunk_101",
+        "text": "L'arbre-à-mardis de Villebrume perd toutes ses feuilles chaque mardi et les retrouve le mercredi.",
+        "source": "herbier_absurde",
+        "categorie": "plantes"
+    },
+    {
+        "id": "chunk_102",
+        "text": "La mousse turquoise pousse uniquement sur les girouettes qui refusent de tourner.",
+        "source": "herbier_absurde",
+        "categorie": "plantes"
+    },
+    {
+        "id": "chunk_103",
+        "text": "Le buisson-chuchoteur de Grand-Chuchot bruisse plus fort quand personne ne l'écoute.",
+        "source": "herbier_absurde",
+        "categorie": "plantes"
+    },
+    {
+        "id": "chunk_104",
+        "text": "Les tulipes-boussoles de Léon inclinent toutes leur tige vers le nord-est, comme le lapin Bartholomé.",
+        "source": "herbier_absurde",
+        "categorie": "plantes"
+    },
+    {
+        "id": "chunk_105",
+        "text": "La ronce-à-boutons produit de petits boutons de nacre que Bob ajoute à sa collection.",
+        "source": "herbier_absurde",
+        "categorie": "plantes"
+    },
+    {
+        "id": "chunk_106",
+        "text": "Le champignon-lampe éclaire faiblement les caves de Villebrume, dont celle où vit Casimir.",
+        "source": "herbier_absurde",
+        "categorie": "plantes"
+    },
+    {
+        "id": "chunk_107",
+        "text": "L'herbe-silence de Haute-Semelle absorbe les sons : on la plante autour des maisons bruyantes.",
+        "source": "herbier_absurde",
+        "categorie": "plantes"
+    },
+    {
+        "id": "chunk_108",
+        "text": "Le lierre-girouette grimpe toujours en tournant vers l'ouest, jamais vers l'est.",
+        "source": "herbier_absurde",
+        "categorie": "plantes"
+    },
+    {
+        "id": "chunk_109",
+        "text": "La fougère-tiède reste chaude même sous la neige, ce qui en fait le refuge préféré des tortues.",
+        "source": "herbier_absurde",
+        "categorie": "plantes"
+    },
+    {
+        "id": "chunk_110",
+        "text": "Selon les savants de Villebrume, le brouillard pèse exactement trois grammes par bocal correctement plié.",
+        "source": "traite_savant",
+        "categorie": "sciences"
+    },
+    {
+        "id": "chunk_111",
+        "text": "La théorie des mardis affirme que le temps ralentit toujours un peu le mardi après-midi.",
+        "source": "traite_savant",
+        "categorie": "sciences"
+    },
+    {
+        "id": "chunk_112",
+        "text": "D'après le traité des girouettes, une girouette qui pointe à l'ouest sans vent stocke de la patience.",
+        "source": "traite_savant",
+        "categorie": "sciences"
+    },
+    {
+        "id": "chunk_113",
+        "text": "Les mesures de Fatou montrent qu'un caillou poli rebondit précisément sept fois sur l'eau tiède.",
+        "source": "traite_savant",
+        "categorie": "sciences"
+    },
+    {
+        "id": "chunk_114",
+        "text": "On enseigne à Haute-Semelle que le silence a une couleur : un mauve très pâle, presque gris.",
+        "source": "traite_savant",
+        "categorie": "sciences"
+    },
+    {
+        "id": "chunk_115",
+        "text": "La loi du fromage suspendu stipule qu'un fromage vieillit deux fois plus vite avec une ficelle bleue.",
+        "source": "traite_savant",
+        "categorie": "sciences"
+    },
+    {
+        "id": "chunk_116",
+        "text": "Selon Diego, un parapluie-radio capte mieux les vieilles météos quand il fait beau.",
+        "source": "traite_savant",
+        "categorie": "sciences"
+    },
+    {
+        "id": "chunk_117",
+        "text": "Le principe de la cuillère-échelle veut qu'un nuage tienne dans exactement dix cuillères de soupe.",
+        "source": "traite_savant",
+        "categorie": "sciences"
+    },
+    {
+        "id": "chunk_118",
+        "text": "Les chercheurs de Fond-de-Théière ont prouvé qu'une soucoupe époussetée réfléchit mieux la lune.",
+        "source": "traite_savant",
+        "categorie": "sciences"
+    },
+    {
+        "id": "chunk_119",
+        "text": "La constante de Gontran vaut treize : c'est le nombre de minutes que gagne toute horloge devant un éternuement.",
+        "source": "traite_savant",
+        "categorie": "sciences"
+    },
+    {
+        "id": "chunk_120",
+        "text": "La fanfare d'Alice joue une seule note, un sol grave, pendant l'intégralité de ses concerts.",
+        "source": "chroniques_artistiques",
+        "categorie": "art"
+    },
+    {
+        "id": "chunk_121",
+        "text": "Le peintre Ambroise ne peint que des girouettes de dos, jamais de face.",
+        "source": "chroniques_artistiques",
+        "categorie": "art"
+    },
+    {
+        "id": "chunk_122",
+        "text": "Les berceuses de Nadia n'ont pas de titre : on les désigne par la couleur du canard qui les a inspirées.",
+        "source": "chroniques_artistiques",
+        "categorie": "art"
+    },
+    {
+        "id": "chunk_123",
+        "text": "Le sculpteur Régis taille des escabeaux miniatures dans des noyaux d'abricot.",
+        "source": "chroniques_artistiques",
+        "categorie": "art"
+    },
+    {
+        "id": "chunk_124",
+        "text": "La chorale de Grand-Chuchot chante à voix si basse qu'on la confond avec le buisson-chuchoteur.",
+        "source": "chroniques_artistiques",
+        "categorie": "art"
+    },
+    {
+        "id": "chunk_125",
+        "text": "Le musée de Villebrume expose 12 bocaux de brouillard, chacun plié par un maître différent.",
+        "source": "chroniques_artistiques",
+        "categorie": "art"
+    },
+    {
+        "id": "chunk_126",
+        "text": "Ambroise a peint un portrait de la tortue Prosper qui met, dit-on, quarante minutes à être admiré.",
+        "source": "chroniques_artistiques",
+        "categorie": "art"
+    },
+    {
+        "id": "chunk_127",
+        "text": "Le grand orchestre des soucoupes fait de la musique en frappant doucement les pavés de Fond-de-Théière.",
+        "source": "chroniques_artistiques",
+        "categorie": "art"
+    },
+    {
+        "id": "chunk_128",
+        "text": "Régis a offert un escabeau de noyau à Gontran pour ses vingt ans de mandat.",
+        "source": "chroniques_artistiques",
+        "categorie": "art"
+    },
+    {
+        "id": "chunk_129",
+        "text": "La galerie du Clos n'expose que des tableaux de girouettes pointant vers l'ouest.",
+        "source": "chroniques_artistiques",
+        "categorie": "art"
+    },
+    {
+        "id": "chunk_130",
+        "text": "Le ricochet de caillou poli est le sport officiel de Basse-Molette, avec sept rebonds pour la victoire.",
+        "source": "annales_sportives",
+        "categorie": "sports"
+    },
+    {
+        "id": "chunk_131",
+        "text": "La course d'escabeaux de Haute-Semelle se dispute à cloche-pied, escabeau replié sous le bras.",
+        "source": "annales_sportives",
+        "categorie": "sports"
+    },
+    {
+        "id": "chunk_132",
+        "text": "Au tournoi de brume, chaque équipe doit plier le plus de brouillard possible avant midi.",
+        "source": "annales_sportives",
+        "categorie": "sports"
+    },
+    {
+        "id": "chunk_133",
+        "text": "Le championnat des girouettes récompense celui qui devine le plus vite leur direction imaginaire.",
+        "source": "annales_sportives",
+        "categorie": "sports"
+    },
+    {
+        "id": "chunk_134",
+        "text": "Fatou détient le record régional de ricochet avec neuf rebonds sur l'eau tiède de La Ravine.",
+        "source": "annales_sportives",
+        "categorie": "sports"
+    },
+    {
+        "id": "chunk_135",
+        "text": "La marche silencieuse de Grand-Chuchot pénalise tout concurrent qui fait craquer une brindille.",
+        "source": "annales_sportives",
+        "categorie": "sports"
+    },
+    {
+        "id": "chunk_136",
+        "text": "Le lancer de bouton dépareillé est une discipline mineure où Bob n'a jamais dépassé la troisième place.",
+        "source": "annales_sportives",
+        "categorie": "sports"
+    },
+    {
+        "id": "chunk_137",
+        "text": "Au relais des mardis, on ne peut passer le témoin qu'un mardi, ce qui rallonge la course de plusieurs semaines.",
+        "source": "annales_sportives",
+        "categorie": "sports"
+    },
+    {
+        "id": "chunk_138",
+        "text": "Le concours de saut de soucoupe consiste à enjamber le plus de pavés sans en toucher un seul.",
+        "source": "annales_sportives",
+        "categorie": "sports"
+    },
+    {
+        "id": "chunk_139",
+        "text": "La régate de bocaux voit flotter les bocaux de brume vides sur l'étang de Fond-de-Théière.",
+        "source": "annales_sportives",
+        "categorie": "sports"
+    },
+    {
+        "id": "chunk_140",
+        "text": "La semaine dernière, une girouette du Clos a tourné vers l'est : le régleur a été convoqué d'urgence.",
+        "source": "gazette_locale",
+        "categorie": "faits_divers"
+    },
+    {
+        "id": "chunk_141",
+        "text": "Bob a perdu son bouton numéro 1 000 dans la neige et a mobilisé tout le quartier pour le retrouver.",
+        "source": "gazette_locale",
+        "categorie": "faits_divers"
+    },
+    {
+        "id": "chunk_142",
+        "text": "Le canard Roméo a sifflé une fausse note pendant la parade, provoquant un fou rire général.",
+        "source": "gazette_locale",
+        "categorie": "faits_divers"
+    },
+    {
+        "id": "chunk_143",
+        "text": "Un bocal de brouillard s'est fêlé au musée, laissant échapper un léger nuage gris pendant trois heures.",
+        "source": "gazette_locale",
+        "categorie": "faits_divers"
+    },
+    {
+        "id": "chunk_144",
+        "text": "La chèvre Clémentine s'est trompée de chemin et a mené Léon jusqu'à la mairie au lieu de la boulangerie.",
+        "source": "gazette_locale",
+        "categorie": "faits_divers"
+    },
+    {
+        "id": "chunk_145",
+        "text": "L'horloge de la mairie a avancé de treize minutes après l'éternuement retentissant de Gontran.",
+        "source": "gazette_locale",
+        "categorie": "faits_divers"
+    },
+    {
+        "id": "chunk_146",
+        "text": "Le hamster Auguste s'est échappé et a été retrouvé endormi dans le stock de graines de la boulangerie.",
+        "source": "gazette_locale",
+        "categorie": "faits_divers"
+    },
+    {
+        "id": "chunk_147",
+        "text": "Une pluie est tombée à seize heures dix-neuf à La Ravine-Tiède : deux minutes de retard, du jamais-vu.",
+        "source": "gazette_locale",
+        "categorie": "faits_divers"
+    },
+    {
+        "id": "chunk_148",
+        "text": "La tortue Prosper a battu son propre record en traversant le jardin de Carla en trente-huit minutes.",
+        "source": "gazette_locale",
+        "categorie": "faits_divers"
+    },
+    {
+        "id": "chunk_149",
+        "text": "Le perroquet Newton a appris un nouveau mot en K : « kaléidoscope », à la grande fierté de Diego.",
+        "source": "gazette_locale",
+        "categorie": "faits_divers"
+    },
+    {
+        "id": "chunk_150",
+        "text": "Bob et Alice sont voisins depuis toujours, séparés par une simple haie de ronce-à-boutons.",
+        "source": "chroniques_village",
+        "categorie": "relations"
+    },
+    {
+        "id": "chunk_151",
+        "text": "Carla offre chaque printemps une chaussette tricotée au banc numéro 12 sur lequel siège Gontran.",
+        "source": "chroniques_village",
+        "categorie": "relations"
+    },
+    {
+        "id": "chunk_152",
+        "text": "Diego répare gratuitement le parapluie-radio de Nadia en échange d'une berceuse pour son perroquet.",
+        "source": "chroniques_village",
+        "categorie": "relations"
+    },
+    {
+        "id": "chunk_153",
+        "text": "Fatou et Léon partagent la même passion pour le nord-est : elle pour ses lancers, lui pour ses tulipes.",
+        "source": "chroniques_village",
+        "categorie": "relations"
+    },
+    {
+        "id": "chunk_154",
+        "text": "Karim range dans sa librairie un livre-oreiller consacré à l'art du pliage de brume de Sophie.",
+        "source": "chroniques_village",
+        "categorie": "relations"
+    },
+    {
+        "id": "chunk_155",
+        "text": "Sophie garde le chat Henri quand Bob part chercher des boutons rares au marché de Mont-Farfelu.",
+        "source": "chroniques_village",
+        "categorie": "relations"
+    },
+    {
+        "id": "chunk_156",
+        "text": "Le maire Gontran a nommé Fatou ambassadrice du caillou poli auprès des villages voisins.",
+        "source": "chroniques_village",
+        "categorie": "relations"
+    },
+    {
+        "id": "chunk_157",
+        "text": "Nadia a composé une berceuse spéciale pour endormir la chèvre Clémentine les soirs d'orage.",
+        "source": "chroniques_village",
+        "categorie": "relations"
+    },
+    {
+        "id": "chunk_158",
+        "text": "Léon fournit le lait de chèvre mauve qui sert à fabriquer le fromage suspendu de Haute-Semelle.",
+        "source": "chroniques_village",
+        "categorie": "relations"
+    },
+    {
+        "id": "chunk_159",
+        "text": "Alice dirige la fanfare qui ouvre chaque année la Fête du Trente Février de Bob.",
+        "source": "chroniques_village",
+        "categorie": "relations"
+    },
+    {
+        "id": "chunk_160",
+        "text": "La collection de boutons de Bob compte 1 847 pièces, dont 312 boutons de nacre.",
+        "source": "inventaire_bob",
+        "categorie": "chiffres"
+    },
+    {
+        "id": "chunk_161",
+        "text": "Villebrume-les-Cuillères compte 212 habitants, 41 girouettes et un seul banc numéroté.",
+        "source": "recensement_villebrume",
+        "categorie": "chiffres"
+    },
+    {
+        "id": "chunk_162",
+        "text": "Le musée de Villebrume conserve 12 bocaux de brouillard officiels et 3 bocaux fêlés en réserve.",
+        "source": "recensement_villebrume",
+        "categorie": "chiffres"
+    },
+    {
+        "id": "chunk_163",
+        "text": "Il y a exactement 5 escaliers dans le quartier des Cinq-Escaliers, ni plus ni moins depuis 1908.",
+        "source": "recensement_villebrume",
+        "categorie": "chiffres"
+    },
+    {
+        "id": "chunk_164",
+        "text": "La chèvre Clémentine met 9 minutes pour rejoindre la boulangerie et 14 pour en revenir, chargée de pain.",
+        "source": "carnet_de_leon",
+        "categorie": "chiffres"
+    },
+    {
+        "id": "chunk_165",
+        "text": "Le Clos-des-Girouettes possède 27 girouettes, toutes orientées à l'ouest sauf une, régulièrement fautive.",
+        "source": "recensement_villebrume",
+        "categorie": "chiffres"
+    },
+    {
+        "id": "chunk_166",
+        "text": "Fatou a réussi 7 rebonds en compétition officielle et 9 lors d'un entraînement non homologué.",
+        "source": "annales_sportives",
+        "categorie": "chiffres"
+    },
+    {
+        "id": "chunk_167",
+        "text": "Le maire Gontran a signé 1 313 décrets à l'encre turquoise depuis le début de son mandat.",
+        "source": "archives_mairie",
+        "categorie": "chiffres"
+    },
+    {
+        "id": "chunk_168",
+        "text": "La tortue Prosper a parcouru le jardin de Carla 4 018 fois depuis son adoption.",
+        "source": "carnet_de_carla",
+        "categorie": "chiffres"
+    },
+    {
+        "id": "chunk_169",
+        "text": "Haute-Semelle recense 88 escabeaux de cheminée repeints en jaune chaque année.",
+        "source": "recensement_villebrume",
+        "categorie": "chiffres"
+    },
+    {
+        "id": "chunk_170",
+        "text": "Le facteur de Villebrume distribue le courrier à reculons pour ne pas déranger les girouettes.",
+        "source": "gazette_locale",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_171",
+        "text": "On dit qu'un bocal de brume bien plié garde le beau temps enfermé jusqu'au printemps suivant.",
+        "source": "traditions_orales",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_172",
+        "text": "Les enfants de Grand-Chuchot apprennent à écrire en commençant par le point final.",
+        "source": "traditions_orales",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_173",
+        "text": "La boulangerie de Villebrume ne cuit ses pains qu'en forme de girouette.",
+        "source": "commerce_local",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_174",
+        "text": "Le pont de Pont-aux-Cailloux a été peint en damier par un peintre daltonien très fier de son œuvre.",
+        "source": "traditions_orales",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_175",
+        "text": "À Basse-Molette, le plus vieux caillou poli du village a 214 ans et se nomme Timothée.",
+        "source": "traditions_orales",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_176",
+        "text": "Le puits de Basse-Molette contient du sable tiède qu'on utilise pour réchauffer les pieds l'hiver.",
+        "source": "traditions_orales",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_177",
+        "text": "La lampe-à-silence de la mairie est la seule autorisée à fonctionner pendant les débats du conseil.",
+        "source": "archives_mairie",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_178",
+        "text": "On raconte que le banc numéro 12 a été offert à Villebrume par un voyageur qui n'a jamais donné son nom.",
+        "source": "traditions_orales",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_179",
+        "text": "Le brouillard de La Ravine-Tiède est réputé le plus moelleux de toute la région pour le pliage.",
+        "source": "traditions_orales",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_180",
+        "text": "Chaque mardi, l'arbre-à-mardis laisse tomber exactement 212 feuilles, une par habitant.",
+        "source": "herbier_absurde",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_181",
+        "text": "Le fromage de Haute-Semelle porte un numéro cousu sur sa croûte, comme les bancs de Villebrume.",
+        "source": "recueil_culinaire",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_182",
+        "text": "La girouette fautive du Clos a été surnommée « l'Entêtée » par les habitants excédés.",
+        "source": "gazette_locale",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_183",
+        "text": "Sophie affirme qu'un bon plieur de brume ne cligne jamais des yeux pendant le pliage.",
+        "source": "traite_savant",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_184",
+        "text": "Le perroquet Newton refuse catégoriquement de prononcer le mot « bonjour », qui ne commence pas par K.",
+        "source": "carnet_de_diego",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_185",
+        "text": "Bob range ses boutons par ordre de tristesse, une classification que lui seul comprend.",
+        "source": "carnet_de_bob",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_186",
+        "text": "La confiture d'ombre de Villebrume se conserve mieux dans le noir, ce qui complique son étiquetage.",
+        "source": "recueil_culinaire",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_187",
+        "text": "Le garde-champêtre de Pont-aux-Cailloux tient un registre des humeurs de la rivière depuis douze ans.",
+        "source": "archives_mairie",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_188",
+        "text": "On dit que la tortue Prosper connaît le plus court chemin du jardin, mais qu'elle préfère le plus long.",
+        "source": "carnet_de_carla",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_189",
+        "text": "La fanfare d'Alice a un seul morceau au répertoire, intitulé sobrement « Le Sol ».",
+        "source": "chroniques_artistiques",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_190",
+        "text": "Le chapeau melon de Newton appartenait autrefois au grand-père de Diego, qui l'avait gagné aux cartes.",
+        "source": "carnet_de_diego",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_191",
+        "text": "À Mont-Farfelu, le sommet s'est appelé successivement « Pic-Câlin », « Mont-Ronchon » et « Cime-Tiède ».",
+        "source": "geographie_imaginaire",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_192",
+        "text": "Le lapin Bartholomé refuse d'entrer dans toute pièce contenant un objet turquoise, sans exception.",
+        "source": "carnet_de_fatou",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_193",
+        "text": "La cave où vit le chat Casimir est éclairée par trois champignons-lampes plantés par Bob.",
+        "source": "carnet_de_bob",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_194",
+        "text": "Le poisson Ferdinand change de sens de nage uniquement quand Karim éteint la musique.",
+        "source": "carnet_de_karim",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_195",
+        "text": "Auguste le hamster refuse la roue neuve que Sophie lui a offerte, préférant l'ancienne qui grince.",
+        "source": "carnet_de_sophie",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_196",
+        "text": "Gontran range dans son bureau un bocal de brouillard offert le jour de son élection, qu'il n'a jamais ouvert.",
+        "source": "archives_mairie",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_197",
+        "text": "La chèvre Clémentine porte un grelot en bois de couleur mauve, assorti à sa robe.",
+        "source": "carnet_de_leon",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_198",
+        "text": "On sert le thé du Clos dans des tasses sans anse, pour obliger les buveurs à patienter qu'il refroidisse.",
+        "source": "recueil_culinaire",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_199",
+        "text": "Le crieur à l'envers de Grand-Chuchot termine toujours ses annonces par le mot « Écoutez ! ».",
+        "source": "annuaire_metiers",
+        "categorie": "divers"
+    },
+    {
+        "id": "chunk_200",
+        "text": "Henri, le chat bleu de Bob, a une tache blanche en forme de cuillère sur l'oreille gauche.",
+        "source": "carnet_de_bob",
+        "categorie": "divers"
+    }
+]
